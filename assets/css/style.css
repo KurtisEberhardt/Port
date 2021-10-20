@@ -8,6 +8,15 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+.bgColor{
+background-color: linear-gradient(180deg, #302743 0%, #22163A 100%);
+
+}
+.imgSize{
+width: 19rem;
+height: 19.25rem;
+background-color: #302743;
+}
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
